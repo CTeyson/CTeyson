@@ -8,6 +8,6 @@ Also I focused in my master thesis on Augmented Reality and you can hit me up if
 Here some things I like to do, when I'm not coding: 
 * 🎌 learning Japanese 
 * 🚄 travel around the world
-* 🏊‍♂️ swim around
+* 🎧 listening to a lot of music
 
 If you want to get in touch with me you can write me on [Twitter](https://twitter.com/cteyson).
