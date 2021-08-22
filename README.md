@@ -7,7 +7,7 @@ Before I started my role as an iOS developer I have created various voice apps f
 An impression of my work you can see [here](https://www.youtube.com/watch?v=iUjKNkITuyE) (_German only_).  
 
 👀  
-Another passion of mine is Augmented Reality. I even worte my master thesis about the future impact of AR. Therefore I used Apples ARKit to research about the usage of AR.
+Another passion of mine is Augmented Reality. I even wrote my master thesis about the future impact of AR. Therefore I used Apples ARKit to research about the usage of AR.
 
 🏳️‍🌈  
 When I develop and engineer software my goal is to make software as welcoming as possible. Software should be as inclusive as possible. 
