@@ -1,22 +1,17 @@
 # Hello! Hallo! こんにちは！
+**Hi there, I'm Chris 👋**
 
-My name is Chris and I'm a project consultant in mobile in Berlin.   
+📍 Mobile Project Consultant based in Berlin.
 
-💬  
-Before I started my role as an iOS developer I have created various voice apps for Google Assistant and Alexa.    
-An impression of my work you can see [here](https://www.youtube.com/watch?v=iUjKNkITuyE) (_German only_).  
+💼 Currently leading mobile projects at SAP. Previously, I was an iOS developer working on apps like REWE, Penny, and SAP Ariba Shopping.
 
-👀  
-Another passion of mine is Augmented Reality. I even wrote my master thesis about the future impact of AR. Therefore I used Apples ARKit to research about the usage of AR.
+🗣 Before diving into iOS development, I worked in voice AI, creating apps for Google Assistant and Alexa. [Check out my work here](https://www.youtube.com/watch?v=iUjKNkITuyE) (German only).
 
-🏳️‍🌈  
-When I develop and plan software my goal is to make software as welcoming as possible. Software should be as inclusive as possible. 
-A tool everybody can use and feels welcomed. 
+🌐 Passionate about Augmented Reality. I wrote my master's thesis on the future impact of AR, focusing on Apple's ARKit.
 
+🎌 When I'm not coding, you'll find me:
+- 🔣 Learning Japanese
+- 🌍 Traveling the world
+- 🎧 Listening to music
 
-Here some things I like to do, when I'm not coding: 
-* 🎌 learning Japanese 
-* 🚄 traveling around the world
-* 🎧 listening to a lot of music
-
-If you want to get in touch with me you can write me on [Twitter](https://twitter.com/cteyson).
+📬 Let's connect! Feel free to reach out via [Twitter](https://twitter.com/cteyson).
