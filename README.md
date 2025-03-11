@@ -3,7 +3,7 @@
 
 📍 Mobile Project Consultant based in Berlin.
 
-💼 Currently leading mobile projects at SAP. Previously, I was an iOS developer working on apps like REWE, Penny, and SAP Ariba Shopping.
+💼 Currently leading mobile projects at SAP. Previously, I was an iOS developer working on apps like [REWE](https://apps.apple.com/de/app/rewe-supermarkt/id714121079), [Penny](https://apps.apple.com/de/app/penny-coupons-angebote/id1096204041), and [SAP Ariba Shopping](https://apps.apple.com/us/app/sap-ariba-procurement/id1451570638).
 
 🗣 Before diving into iOS development, I worked in voice AI, creating apps for Google Assistant and Alexa. [Check out my work here](https://www.youtube.com/watch?v=iUjKNkITuyE) (German only).
 
